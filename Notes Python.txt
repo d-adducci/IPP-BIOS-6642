@@ -1,0 +1,16 @@
+
+& symbol is for bitwise operator
+
+Make indentations consistant by using Tab key if the IDE does not automatically.
+
+use "pass" phrase if you have an if statment that you do not want to perform any operation in.
+
+generally do not use '==' sign for floating point numbers. 
+
+For floating point numbers recommend always using difference to check equality.
+
+For chained conditionals can use elif statements. In chained conditionals can only have one if and one else statment (or no else statment). Can have as many elif statments as you want (including zero). 
+
+For sequential conditionals use if statements one after another. Interpretation is different from chained conditionals. Chained stops when the first TRUE statment is found. For sequential Python checks every condition regardless of finding previous TRUE statements.
+
+In formatting numbers are right justified by default, strings are left justified by default. 

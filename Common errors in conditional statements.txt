@@ -1,0 +1,22 @@
+Common errors in conditional statements: Condition is always true of always false. 
+
+Break statment ends loop in middle of statement. 
+
+Benefit of break statement is that you do not need to define an additional variable. 
+
+Can use '\' to break long statement into multiple lines.
+
+Use 'continue' to keep looping through a while statement.
+
+Tree code:
+
+row = 0
+while row < height:
+	print space
+	print * 
+
+** Make tree without using while loops 
+
+The def keyword introduces a function definition. 
+
+By convention use tripple quotes for functions docstring. Docstring should be the first thing written in the function.
